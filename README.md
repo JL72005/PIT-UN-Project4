@@ -1,13 +1,15 @@
 # PIT-UN-Project4
 
-## Introductions: 
+## Team Member Introductions: 
 ### Jessica Lin
+Jessica is a rising junior from Northern VA. She is at Wellesley College studying Data Science and Psychology. 
+
 ### Emma Zou
 ### Danielle Sitalo
 
-# Narrative Intelligence and Impact Signatures of Flash Flood Events in DC, Maryland, and Virginia
+## Narrative Intelligence and Impact Signatures of Flash Flood Events in DC, Maryland, and Virginia
 
-## Project Objectives
+### Project Objectives
 1. Download and filter flash flood event data from 1996 to present for Washington, D.C.,
 and neighboring counties in Maryland and Virginia, using only events that contain
 narrative descriptions.
@@ -42,7 +44,7 @@ power_outage : Loss of electricity or power infrastructure
 
 --------------------------------------------------------------------------------------------
 
-## Quantifying Combined Impact: Flood Impact Score (FIS)
+### Quantifying Combined Impact: Flood Impact Score (FIS)
 Each event receives a Flood Impact Score (FIS) — a weighted sum of the above tags
 that quantifies overall severity based on:
 • Human impact
@@ -53,7 +55,7 @@ modeling needs.
 
 --------------------------------------------------------------------------------------------
 
-## Descriptive and Exploratory Analysis Plan: 
+### Descriptive and Exploratory Analysis Plan: 
 - Tag Frequency Analysis
   • Distribution of impact types across all events.
   • Cross-tabulations by state and decade.
@@ -73,7 +75,7 @@ modeling needs.
 
 --------------------------------------------------------------------------------------------
 
-## Advanced Contextual Analyses
+### Advanced Contextual Analyses
 - Flood Typology Clustering
   • Use of LLM-labeled tags to cluster floods into categories such as:
     – “High-disruption, low-casualty”
