@@ -2,10 +2,8 @@
 
 ## Team Member Introductions: 
 ### Jessica Lin
-Jessica is a rising junior from Northern VA. She is at Wellesley College studying Data Science and Psychology. 
+Jessica is a rising junior from Northern VA. She is studying at Wellelsley College double majoring in Data Science and Psychology. 
 
-### Emma Zou
-=======
 ### Emma 
 Emma is a rising sophomore from Maryland, studying applied math-computer science and music at Brown University.
 ### Danielle Sitalo
