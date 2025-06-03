@@ -30,18 +30,18 @@ silience and emergency planning.
 Each narrative is processed with an LLM to classify presence or absence of the following
 impact indicators:
 
-Tag : Description
-death : Human fatalities
-injury : Physical injuries
-evacuation : Any form of population displacement
-rescue : Emergency or civilian water rescues
-car_crash : Explicit vehicle collisions or crashes
-home_damage : Flooded or damaged residences
-infrastructure_damage : Roads, bridges, water plants, etc.
-school_damage : Impacts on schools or educational buildings
-hospital_damage : Impacts on hospitals or clinics
-road_closure : Blocked roads or intersections
-power_outage : Loss of electricity or power infrastructure
+    Tag : Description
+    death : Human fatalities
+    injury : Physical injuries
+    evacuation : Any form of population displacement
+    rescue : Emergency or civilian water rescues
+    car_crash : Explicit vehicle collisions or crashes
+    home_damage : Flooded or damaged residences
+    infrastructure_damage : Roads, bridges, water plants, etc.
+    school_damage : Impacts on schools or educational buildings
+    hospital_damage : Impacts on hospitals or clinics
+    road_closure : Blocked roads or intersections
+    ower_outage : Loss of electricity or power infrastructure
 
 --------------------------------------------------------------------------------------------
 
