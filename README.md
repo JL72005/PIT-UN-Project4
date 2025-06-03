@@ -5,7 +5,7 @@
 Jessica is a rising junior from Northern VA. She is studying at Wellelsley College double majoring in Data Science and Psychology. 
 
 ### Emma 
-Emma is a rising sophomore from Maryland, studying applied math-computer science and music at Brown University.
+Emma is a rising sophomore from Maryland, studying applied math-computer science and music at Brown University. testing
 ### Danielle Sitalo
 
 ## Narrative Intelligence and Impact Signatures of Flash Flood Events in DC, Maryland, and Virginia
