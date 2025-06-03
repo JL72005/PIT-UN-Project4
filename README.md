@@ -2,9 +2,14 @@
 
 ## Team Member Introductions: 
 ### Jessica Lin
+<<<<<<< HEAD
 Jessica is a rising junior from Northern VA. She is at Wellesley College studying Data Science and Psychology. 
 
 ### Emma Zou
+=======
+### Emma 
+Emma is a rising sophomore from Maryland, studying applied math-computer science and music at Brown University.
+>>>>>>> 63a958183c799e4d978464c0ecb2d9dc8fbad050
 ### Danielle Sitalo
 
 ## Narrative Intelligence and Impact Signatures of Flash Flood Events in DC, Maryland, and Virginia
