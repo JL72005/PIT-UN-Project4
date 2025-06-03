@@ -1,2 +1,8 @@
 # PIT-UN-Project4
-PIT-UN Project
+
+## Introductions
+### Jessica Lin
+
+### Emma Zou
+
+### Danielle Sitalo
