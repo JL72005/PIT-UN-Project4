@@ -2,7 +2,7 @@
 
 ## Team Member Introductions: 
 ### Jessica Lin
-Jessica is a rising junior from Northern VA. She is studying at Wellelsley College double majoring in Data Science and Psychology. xxxyyy
+Jessica is a rising junior from Northern VA. She is studying at Wellelsley College double majoring in Data Science and Psychology.
 
 ### Emma 
 Emma is a rising sophomore from Maryland, studying applied math-computer science and music at Brown University.
