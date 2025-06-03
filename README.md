@@ -2,7 +2,8 @@
 
 ## Introductions: 
 ### Jessica Lin
-### Emma Zou
+### Emma 
+Emma is a rising sophomore from Maryland, studying applied math-computer science and music at Brown University.
 ### Danielle Sitalo
 
 # Narrative Intelligence and Impact Signatures of Flash Flood Events in DC, Maryland, and Virginia
