@@ -1,28 +1,28 @@
-Tag,Description,Similar Words
-death,Human Fatalities ,"death, deaths, dead, died, fatal, fatality, fatalities, lifeless, perished, drown, drowns, drowned, casualty, casualities, *swept away"
-injury,Physical Injuries,"injury, injuries, injured, hurt, hurts, wounded, wound, harm, harms, harmed, treated and released from Army community hospital"
-evacuation,Any form of population displacement,"evacuation, evacuations, evacuate, evacuated, evacuating, relocate, relocated, displaced, forced out, moved out, climbed to safety, isolated, stranded"
-rescue,Emergency or civilian water rescues,"rescue, rescued, rescues, rescuing, retrieved, retrieval, saved, save"
-car_crash,Explicit vehicle collisions or crashes,"car crash, crash, crashed, accident, vehicle accident, wreck, collision, accidents"
-home_damage,Flooded or damaged residences,"home damage, house damage, residence damage, basement flooded, flooded home, flooded house, property damage, home destroyed, roof collapse, shingle, siding, gutter, residences, homes, houses, residential gardens, mobile home parks, mobile homes, fences, mailbox, windows,chimneys, sheds, dwellings, porch, roof, garage, apartment buildings"
-infrastructure_damage,"Roads (includes flooding), bridges, water plants, police stations/first responder stations, barns","pumping stations, infrastructure, metro subway system, escalators, stations, mezzanine and platform levels, "
-soft_infrastructure_damage,Impacts on schools or educational buildings ,"school districts, schools, greenhouse, police station, church, firehouse, Fire Station 2, stores in a shopping center, restaurant, service station (doors), school buses, businesses"
-,,
-road_closure,Blocked roads or intersections,"close, closed, block, blocked, impassable, road closure"
-power_outage,Loss of electricity or power infrastructure,"loss of power, lost power, power outage, outage, outages, blackout, electricity loss, utility outage, transformer, lose power, power lines, lines, knocked out power, lost power, fallen wires, personal electronics equipment failures"
-tree_damage,anything that involves trees being destroyed,"downed trees, limbs, oak tree, maple tree, fallen trees, tree, trees"
-vehicle_loss,anything that results in the loss of a vehicle ,"vehicle, vehicles, train derailment, cars, automobile, sport utility vehicle, van, truck"
-agricultural_damage,"losses in crops, and farmland","barns, farm storage building, roof off of a barn, agricultural/crop losses"
-animal_loss,animal deaths,
-campground_damage,trail and camp erosion/damage,Campgrounds
-,,
-,,
-,,
-,,
-,,
-nor_easter,type of storm in the northeast,
-thunderstorm,,thunderstorms
-hurricane,,
-tornado,,
-lightning,lightning and/or fire,
-mudslide,mudslide/landslide,mudslides
+Tag,Description,Similar Words,,,,,,,,,,,,,,,,,,,,,,,
+death,Human Fatalities,"death, deaths, dead, died, fatal, fatality, fatalities, lifeless, perished, drown, drowns, drowned, casualty, casualities, *swept away",,,,,,,,,,,,,,,,,,,,,,,
+injury,Physical Injuries,"injury, injuries, injured, hurt, hurts, wounded, wound, harm, harms, harmed, treated and released from Army community hospital",,,,,,,,,,,,,,,,,,,,,,,
+evacuation,Any form of population displacement,"evacuation, evacuations, evacuate, evacuated, evacuating, relocate, relocated, displaced, forced out, moved out, climbed to safety, isolated, stranded",,,,,,,,,,,,,,,,,,,,,,,
+rescue,Emergency or civilian water rescues,"rescue, rescued, rescues, rescuing, retrieved, retrieval, saved, save",,,,,,,,,,,,,,,,,,,,,,,
+car_crash,Explicit vehicle collisions or crashes,"car crash, crash, crashed, accident, vehicle accident, wreck, collision, accidents",,,,,,,,,,,,,,,,,,,,,,,
+home_damage,Flooded or damaged residences,"home damage, house damage, residence damage, basement flooded, flooded home, flooded house, property damage, home destroyed, roof collapse, shingle, siding, gutter, residences, homes, houses, residential gardens, mobile home parks, mobile homes, fences, mailbox, windows,chimneys, sheds, dwellings, porch, roof, garage, apartment buildings",,,,,,,,,,,,,,,,,,,,,,,
+infrastructure_damage,"Roads (includes flooding), bridges, water plants, police stations/first responder stations, barns","pumping stations, infrastructure, metro subway system, escalators, stations, mezzanine and platform levels,",,,,,,,,,,,,,,,,,,,,,,,
+soft_infrastructure_damage,Impacts on schools or educational buildings,"school districts, schools, greenhouse, police station, church, firehouse, Fire Station 2, stores in a shopping center, restaurant, service station (doors), school buses, businesses",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+road_closure,Blocked roads or intersections,"close, closed, block, blocked, impassable, road closure",,,,,,,,,,,,,,,,,,,,,,,
+power_outage,Loss of electricity or power infrastructure,"loss of power, lost power, power outage, outage, outages, blackout, electricity loss, utility outage, transformer, lose power, power lines, lines, knocked out power, lost power, fallen wires, personal electronics equipment failures",,,,,,,,,,,,,,,,,,,,,,,
+tree_damage,anything that involves trees being destroyed,"downed trees, limbs, oak tree, maple tree, fallen trees, tree, trees",,,,,,,,,,,,,,,,,,,,,,,
+vehicle_loss,anything that results in the loss of a vehicle,"vehicle, vehicles, train derailment, cars, automobile, sport utility vehicle, van car, truck",,,,,,,,,,,,,,,,,,,,,,,
+agricultural_damage,"losses in crops, and farmland","barns, farm storage building, roof off of a barn, agricultural/crop losses",,,,,,,,,,,,,,,,,,,,,,,
+animal_loss,animal deaths,,,,,,,,,,,,,,,,,,,,,,,,
+campground_damage,trail and camp erosion/damage,Campgrounds,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+nor_easter,type of storm in the northeast,,,,,,,,,,,,,,,,,,,,,,,,
+thunderstorm,,thunderstorms,,,,,,,,,,,,,,,,,,,,,,,
+hurricane,,,,,,,,,,,,,,,,,,,,,,,,,
+tornado,,,,,,,,,,,,,,,,,,,,,,,,,
+lightning,lightning and/or fire,,,,,,,,,,,,,,,,,,,,,,,,
+mudslide,mudslide/landslide,mudslides,,,,,,,,,,,,,,,,,,,,,,,
