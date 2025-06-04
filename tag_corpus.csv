@@ -12,7 +12,7 @@ power_outage,Loss of electricity or power infrastructure,"loss of power, lost po
 tree_damage,anything that involves trees being destroyed,"downed trees, limbs, oak tree, maple tree, fallen trees, tree, trees"
 vehicle_loss,anything that results in the loss of a vehicle ,"vehicle, vehicles, train derailment, cars, automobile, sport utility vehicle, van, truck"
 agricultural_damage,"losses in crops, and farmland","barns, farm storage building, roof off of a barn, agricultural/crop losses"
-animal_loss,animal deaths,"pet, dog, cow, animal, livestock"
+animal_loss,animal deaths,"pet, dog, cow, animal, livestock, turkey"
 campground_damage,trail and camp erosion/damage,"campground, trail, camp"
 nor_easter,type of storm in the northeast,"nor'easter"
 thunderstorm,thunderstorms,"thunderstorms"
