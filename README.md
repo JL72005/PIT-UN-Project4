@@ -15,6 +15,10 @@ Danielle Sitalo is a rising junior from Texas, studying Statistics at Texas A&M 
 ### Project Objectives
 The primary goal of this project is to develop a data-driven framework for understanding and quantifying the impacts of the flash floods in Washington, D.C., and its neighboring counties in Maryland and Virginia. We focus on event from 1996 to the present that include narrative description, extracting structured impact information, computing a Flood Impact Score (FIS) for each event, and analyzing patterns in severity and typology. Ultimately, we intend to obtain findings which can be used to inform resilience strategies and emergency planning by identifying high-impact flood scenarios. 
 
+### Data Sources
+Data used in this project is from the National Oceanic and Atmospheric Administration’s (NOAA) storm data base. This dataset provides information about flash floods in the D.C., Maryland, and Virginia area from 1996 to the present. A key feature of this dataset is its inclusion of “narratives”: qualitative descriptions of each flood event. 
+Link to dataset: https://www.ncdc.noaa.gov/stormevents/ftp.jsp
+
 ## Acknowledgment
 PIT-UN contributed funding for this work. PIT-UN is a project of the New Venture
 Fund (NVF), a 501(c)(3) public charity that supports innovative and effective
