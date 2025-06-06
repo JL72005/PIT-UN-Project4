@@ -5,8 +5,10 @@
 Jessica is a rising junior from Northern VA. She is studying at Wellelsley College double majoring in Data Science and Psychology.
 
 ### Emma 
-Emma is a rising sophomore from Maryland, studying applied math-computer science and music at Brown University. testing
+Emma is a rising sophomore from Maryland, studying applied math-computer science and music at Brown University. 
+
 ### Danielle Sitalo
+Danielle Sitalo is a rising junior from Texas, studying Statistics at Texas A&M University. 
 
 ## Narrative Intelligence and Impact Signatures of Flash Flood Events in DC, Maryland, and Virginia
 
@@ -89,3 +91,8 @@ modeling needs.
   • A derived Flood Impact Score for each event.
   • Visual analytics: tag frequency plots, spatial heatmaps, co-occurrence networks.
   • A replicable method to use LLMs for extracting disaster intelligence from text.
+
+## Acknowledgment
+PIT-UN contributed funding for this work. PIT-UN is a project of the New Venture
+Fund (NVF), a 501(c)(3) public charity that supports innovative and effective
+public interest projects.
