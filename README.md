@@ -91,3 +91,8 @@ modeling needs.
   • A derived Flood Impact Score for each event.
   • Visual analytics: tag frequency plots, spatial heatmaps, co-occurrence networks.
   • A replicable method to use LLMs for extracting disaster intelligence from text.
+
+## Acknowledgment
+PIT-UN contributed funding for this work. PIT-UN is a project of the New Venture
+Fund (NVF), a 501(c)(3) public charity that supports innovative and effective
+public interest projects.
