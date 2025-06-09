@@ -30,7 +30,7 @@ To run the code, users should open the taggingV1.ipynb file and execute each cel
     b. dc_md_va_flashfloods_1996_pres.cv: a version of the original CV data file that includes ~900 manually labeled observations with tags.
     c. tag_corpus.csv: includes the tags with the synonyms/words that correspond to each one. 
 4. Inside the spatial_temporal_data:
-    a. cb_11, cb_24, cb_51_cousb: shapefiles for census tracts in DC, Maryland, Virginia, respectively. 
+    a. cb_2024_11_cousub_500k, cb_2024_24_cousub_500k, cb_2024_51_cousub_500k: zipped shapefiles for census tracts in DC, Maryland, and Virginia respectively. 
 5. taggingV1.ipynb: a Jupyter Notebook File containing the code for creating the tagging classification method, data visualizations, and FIS_score model.
 
 
