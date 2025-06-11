@@ -26,11 +26,11 @@ To run the code, users should open the taggingV1.ipynb file and execute each cel
 1. README.md: Introduction that includes information about the project, the developers, and the project repository.
 2. License.txt: License file with MIT.
 3. Inside the csv_files folder:
-    a. NEW_TAGS_dc_md_va_flashfloods_1996_pres.cv: a CV file that contains original data from NOAA's storm database, containing information about flash flood events. 
-    b. NEW_TAGS_dc_md_va_flashfloods_1996_pres.cv: a version of the original CV data file that includes ~900 manually labeled observations with tags.
-    c. tag_corpus.csv: includes the tags with the synonyms/words that correspond to each one. 
+    - **NEW_TAG_dc_md_va_flashfloods_1996_pres.csv**: a CSV file that contains original data from NOAA's storm database, containing information about flash flood events.
+    - **dc_md_va_flashfloods_1996_pres.csv**: a version of the original CV data file that includes ~900 manually labeled observations with tags.
+    - **tag_corpus.csv**: includes the tags with the synonyms/words that correspond to each one. 
 4. Inside the spatial_temporal_data:
-    a. cb_11, cb_24, cb_51_cousb: shapes files for census tracts in DC, Maryland, Virginia, respectively. 
+    - **cb_11, cb_24, cb_51_cousb**: shape files for census tracts in DC, Maryland, Virginia, respectively. 
 5. taggingV1.ipynb: a Jupyter Notebook File containing the code for creating the tagging classification method, data visualizations, and FIS_score model.
 
 
