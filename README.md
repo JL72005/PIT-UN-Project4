@@ -32,9 +32,10 @@ To run the code, users should open the taggingV1.ipynb file and execute each cel
 4. Inside the spatial_temporal_data:
     - **cb_11, cb_24, cb_51_cousb**: shape files for census tracts in DC, Maryland, Virginia, respectively. 
 5. taggingV1.ipynb: a Jupyter Notebook File containing the code for creating the tagging classification method, data visualizations, and FIS_score model.
+6. **Technical report of our findings**. This was made using the LaTeX editor Overleaf.
 
 
-## Acknowledgment
+## Acknowledgments
 PIT-UN contributed funding for this work. PIT-UN is a project of the New Venture
 Fund (NVF), a 501(c)(3) public charity that supports innovative and effective
 public interest projects.
