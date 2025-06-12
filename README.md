@@ -18,7 +18,7 @@ To run the code, users should open the data_model_code.ipynb file and execute ea
     - **dc_md_va_flashfloods_1996_pres.csv**: a version of the original CV data file that includes ~900 manually labeled observations with tags.
     - **tag_corpus.csv**: includes the tags with the synonyms/words that correspond to each one. 
 4. Inside the spatial_temporal_data:
-    - **cb_11, cb_24, cb_51_cousb**: shape files for census tracts in DC, Maryland, Virginia, respectively. 
+    - **cb_2024_us_county_500k.zip**: shape file for counties in the U.S.
 5. **data_model_code.ipynb**: a Jupyter Notebook File containing the code for creating the tagging classification method, data visualizations, and FIS_score model.
 6. **TechnicalReport.pdf**: a PDF of our technical report, made using the LaTeX editor Overleaf.
 
