@@ -1,6 +1,4 @@
-# PIT-UN-Project4
-
-# Narrative Intelligence and Impact Signatures of Flash Flood Events in D.C., Maryland, and Virginia
+# **PIT-UN Project 4**: Narrative Intelligence and Impact Signatures of Flash Flood Events in D.C., Maryland, and Virginia
 
 ## Project Objectives
 The primary goal of this project is to improve understanding of the impacts of the flash floods in Washington, D.C., and its neighboring counties in Maryland and Virginia by utilizing data science techniques. We focus on events from 1996 to the present that include narrative description, with the primary objectives to extract structured impact information from unstructured event narratives using large language models (LLMs), compute a Flood Impact Score (FIS) for each event, and analyzing contextual patterns such as co-occurence of impact types, spatial clustering, and temporal trends. Ultimately, we intend to obtain findings that can be used to inform resilience strategies and emergency planning by identifying high-impact flood scenarios. 
@@ -21,8 +19,8 @@ To run the code, users should open the data_model_code.ipynb file and execute ea
     - **tag_corpus.csv**: includes the tags with the synonyms/words that correspond to each one. 
 4. Inside the spatial_temporal_data:
     - **cb_11, cb_24, cb_51_cousb**: shape files for census tracts in DC, Maryland, Virginia, respectively. 
-5. data_model_code.ipynb: a Jupyter Notebook File containing the code for creating the tagging classification method, data visualizations, and FIS_score model.
-6. **Technical report of our findings**. This was made using the LaTeX editor Overleaf.
+5. **data_model_code.ipynb**: a Jupyter Notebook File containing the code for creating the tagging classification method, data visualizations, and FIS_score model.
+6. **TechnicalReport.pdf**: a PDF of our technical report, made using the LaTeX editor Overleaf.
 
 ## Meet the Team
 
