@@ -5,7 +5,7 @@
 Jessica is a rising junior from Northern Virginia, studying Data Science and Psychology at Wellesley College.
 
 ### Emma 
-Emma is a rising sophomore from Maryland, studying applied math-computer science and music at Brown University. 
+Emma is a rising sophomore from Maryland, studying Applied Math-Computer Science and Music at Brown University. 
 
 ### Danielle Sitalo
 Danielle Sitalo is a rising junior from Texas, studying Statistics at Texas A&M University. 
