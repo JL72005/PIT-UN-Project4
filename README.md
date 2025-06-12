@@ -26,9 +26,9 @@ To run the code, users should open the data_model_code.ipynb file and execute ea
 
 **Jessica Lin** is a rising junior from Northern Virginia, studying Data Science and Psychology at Wellesley College.
 
-**Emma Zou** is a rising sophomore from Maryland, studying Applied Math-Computer Science and Music at Brown University. 
-
 **Danielle Sitalo** is a rising junior from Texas, studying Statistics at Texas A&M University. 
+
+**Emma Zou** is a rising sophomore from Maryland, studying Applied Math-Computer Science and Music at Brown University. 
 
 ## Acknowledgments
 PIT-UN contributed funding for this work. PIT-UN is a project of the New Venture
