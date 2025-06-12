@@ -20,7 +20,7 @@ Data used in this project is sourced from the National Oceanic and Atmospheric A
 Link to dataset: https://www.ncdc.noaa.gov/stormevents/ftp.jsp
 
 ## How to Run Code
-To run the code, users should open the taggingV1.ipynb file and execute each cell sequentially. The workflow is chronological: it begins with downloading and filtering the raw NOAA data, then applies LLMs to extract structured impact tags from the narrative text. Then, we compute the Flood Impact Score (FIS) for each event and generate visual analytics. 
+To run the code, users should open the data_model_code.ipynb file and execute each cell sequentially. The workflow is chronological: it begins with downloading and filtering the raw NOAA data, then applies LLMs to extract structured impact tags from the narrative text. Then, we compute the Flood Impact Score (FIS) for each event and generate visual analytics. 
 
 ## Summary of Contents and File Structure
 1. README.md: Introduction that includes information about the project, the developers, and the project repository.
