@@ -20,7 +20,8 @@ To run the code, users should open the data_model_code.ipynb file and execute ea
 4. Inside the spatial_temporal_data:
     - **cb_2024_us_county_500k.zip**: shape file for counties in the U.S.
 5. **data_model_code.ipynb**: a Jupyter Notebook File containing the code for creating the tagging classification method, data visualizations, and FIS_score model.
-6. **TechnicalReport.pdf**: a PDF of our technical report, made using the LaTeX editor Overleaf.
+6. **v2**: a Jupyter Notebook File with the second ML-driven prediction model. 
+7. **TechnicalReport.pdf**: a PDF of our technical report, made using the LaTeX editor Overleaf.
 
 ## Meet the Team
 
